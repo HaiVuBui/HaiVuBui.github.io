@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/OrionStar.jpg"
+  avatar           : "OrionStar.jpg"
   name             : "Hai Vu Bui "
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Hanoi-Vietnam"
   employer         : "Hanoi University of Science and Technology"
   uri              : # URL
   email            : "buivuhai1105@gmail.com" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #
+  github           : https://github.com/HaiVuBui
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
